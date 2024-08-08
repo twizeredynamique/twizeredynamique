@@ -5,9 +5,7 @@ I'm currently working on mastering python before continuing to write any more pr
 I'm open to collaborating on ANY creative venture, as long as I'm helped to understand the overall direction of it.
 
 Please reach out on linkedIn with any advice, suggestions, questions, collaboration opportunities, or just to say hi!:
-[here](www.google.com)
-
-[OpenAI](https://www.openai.com)
+[here](linked.com/dynamique-twizere)
 <!---
 twizeredynamique/twizeredynamique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
